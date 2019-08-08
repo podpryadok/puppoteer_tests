@@ -1,0 +1,24 @@
+{
+  "name": "trashoff_tests_js",
+  "version": "1.0.0",
+  "description": "Autotests for Trashoff website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout=30000 ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podpryadok/trashoff_tests_js.git"
+  },
+  "author": "Podpriadok Ihor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/podpryadok/trashoff_tests_js/issues"
+  },
+  "homepage": "https://github.com/podpryadok/trashoff_tests_js#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}
