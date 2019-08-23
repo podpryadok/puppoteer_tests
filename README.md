@@ -1,4 +1,4 @@
-# Autotests tests js
+# Autotests js
 
 Here I used test frameworks:
 - Puppeteer 
