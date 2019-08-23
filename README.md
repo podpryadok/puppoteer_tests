@@ -1,9 +1,5 @@
-# Autotests js
-
-Here I used test frameworks:
-- Puppeteer 
-- Mocha
-- Chai
+# hub-tests
+Tests for CW-HUB. Repository is created for learning test automation basics. 
 
 How to set up and run tests: 
 
