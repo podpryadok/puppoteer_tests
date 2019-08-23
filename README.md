@@ -1,5 +1,4 @@
-# TrashOff tests js
-Autotests for Trashoff website
+# Autotests tests js
 
 Here I used test frameworks:
 - Puppeteer 
