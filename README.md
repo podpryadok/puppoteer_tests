@@ -1,7 +1,11 @@
-# hub-tests
-Tests for CW-HUB. Repository is created for learning test automation basics. 
+# Autotests training
+Here I used test frameworks:
 
-How to set up and run tests: 
+- Puppeteer
+- Mocha
+- Chai
+
+How to set up and run tests:
 
 1. npm i
 2. npm run test
