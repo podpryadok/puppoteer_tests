@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "debug": "^3.2.6",
-    "https-proxy-agent": "^2.2.2",
+    "https-proxy-agent": "^2.2.3",
     "jest": "^24.9.0",
     "jest-image-snapshot": "^2.9.0",
     "lcid": "^2.0.0",
