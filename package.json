@@ -27,7 +27,7 @@
     "mime": "^2.4.4",
     "mimic-fn": "^2.1.0",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "mkdirp": "^0.5.1",
     "ms": "^2.1.1",
     "nice-try": "^1.0.5"
